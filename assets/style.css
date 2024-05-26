@@ -40,6 +40,10 @@ header {
     align-items: center;
     flex-wrap: nowrap;
 }
+.cambiotitulo{
+    color: rgb(245, 253, 29);
+}
+
 header h1 {
     color:var(--text1);
     font-size: 1.4rem;
